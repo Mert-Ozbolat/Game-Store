@@ -9,4 +9,4 @@ This project is a modern game store website interface created using HTML and CSS
 - Hosting Options: Easily customizable game hosting plans.
 
 # 🤖Preview
-![](GameStore.gif)# Game-Store
+![](GameStore.gif)
